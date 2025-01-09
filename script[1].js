@@ -1,0 +1,1 @@
+console.log('MoodSnap is live!');
